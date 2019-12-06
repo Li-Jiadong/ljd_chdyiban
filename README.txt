@@ -1,0 +1,1 @@
+This is a set of projects to learn about git,html,css,javascript and bootstrap.
